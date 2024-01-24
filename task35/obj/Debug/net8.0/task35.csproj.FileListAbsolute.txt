@@ -1,0 +1,14 @@
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\bin\Debug\net8.0\task35.exe
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\bin\Debug\net8.0\task35.deps.json
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\bin\Debug\net8.0\task35.runtimeconfig.json
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\bin\Debug\net8.0\task35.dll
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\bin\Debug\net8.0\task35.pdb
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.AssemblyInfoInputs.cache
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.AssemblyInfo.cs
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.csproj.CoreCompileInputs.cache
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.dll
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\refint\task35.dll
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.pdb
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\task35.genruntimeconfig.cache
+C:\Users\РомаИлиля\Desktop\C#Task35\task35\obj\Debug\net8.0\ref\task35.dll
